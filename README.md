@@ -1,3 +1,4 @@
 Meu primeiro exemplo 
 ====================
-Código atualizado.
+aqui será digitado diversas linhas de código.
+bla bla bla bla.git 
